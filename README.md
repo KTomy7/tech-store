@@ -2,7 +2,7 @@
 
 Discipline: Databases 
 
-2st Year, Second Semester
+2nd Year, 2nd Semester
 
 Laboratory project
 
